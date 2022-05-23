@@ -1,0 +1,16 @@
+.register-area {
+    margin-top: 100px;
+}
+
+.register-input {
+    border-radius: 30px !important;
+    margin-left: 65px !important;
+    width: 70% !important;
+}
+
+.register-btn {
+    border-radius: 30px !important;
+    margin-left: 65px !important;
+    width: 70% !important;
+    box-shadow: 5px 5px 5px #dc3545;
+}

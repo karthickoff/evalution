@@ -1,0 +1,100 @@
+.left-area {
+    margin-top: 100px;
+}
+
+.logo-area {
+    padding-left: 125px;
+}
+
+.logininput {
+    border-radius: 30px !important;
+    margin-left: 65px !important;
+    width: 70% !important;
+    position: relative;
+    text-indent: 25px;
+}
+
+.loginbutton {
+    border-radius: 30px !important;
+    margin-left: 65px !important;
+    width: 70% !important;
+
+
+    box-shadow: 2px 4px 5px #dc3545;
+}
+
+.banner-area {
+    height: 620px;
+}
+
+.banner-area img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.social-icons {
+    margin-left: 111px;
+}
+
+.or::after {
+    content: "";
+    display: inline-block;
+    width: 130px;
+    height: 1px;
+    background: black;
+    margin-bottom: 3px;
+    margin-left: 7px;
+    opacity: 0.5;
+}
+
+.divider {
+
+    margin-left: 100px;
+}
+
+.or::before {
+
+    content: "";
+    display: inline-block;
+    width: 130px;
+    height: 1px;
+    background: black;
+    margin-bottom: 3px;
+    margin-right: 7px;
+    opacity: 0.5;
+
+
+}
+
+.user {
+    position: absolute;
+    left: 16%;
+    top: 45%;
+}
+
+.user img {
+    opacity: 0.6;
+}
+
+.lock {
+    top: 54%;
+    position: absolute;
+    left: 16%;
+    opacity: 0.6;
+}
+
+.info-icon {
+    height: 20px;
+    position: absolute;
+    opacity: 0.6;
+    width: 20px;
+    left: 410px;
+    top: 333px;
+}
+
+.info-icon img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

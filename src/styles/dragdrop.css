@@ -1,0 +1,51 @@
+.App {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background-color: #0AA1DD;
+    border: 1px solid blue;
+    margin: 10px;
+
+}
+
+.App .column {
+    width: 22%;
+    margin: 10px;
+    border: 1px solid white;
+    padding: 2px 7px;
+    border-radius: 10px;
+    background-color: #D0C9C0;
+}
+
+.droppable-col {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h4 {
+    text-align: center;
+}
+
+button {
+
+    margin: 20px 0px 0px 31px;
+}
+
+.item {
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #79DAE8;
+
+
+}
+
+.close:hover {
+    cursor: pointer;
+}
+
+.info-area {
+    margin-left: 5px;
+}
